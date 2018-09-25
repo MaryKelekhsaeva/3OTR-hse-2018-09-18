@@ -53,3 +53,9 @@ h1 {
 p{
   font-family: "PT Sans", sans-sherif
 }
+body {
+  background-image: url(dc-online-media-mockup.jpg);
+  background-size: 800px 20624px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
